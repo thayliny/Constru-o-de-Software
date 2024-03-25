@@ -9,17 +9,17 @@ Uma API Rest é uma aplicação leve que gera excelentes resultados em diversas 
 
 ### As principais características de uma API Rest são :### 
 
-1.Interface Uniforme
-2.Ausência de estado
-3.Sistema de Camadas
-4.Capacidade de Armazenamento
-5.Código sob demanda
+1. Interface Uniforme
+2. Ausência de estado
+3. Sistema de Camadas
+4. Capacidade de Armazenamento
+5. Código sob demanda
 
 _Os benefícios de se usar uma API Rest é a sua Escalabilidade,Flexibilidade e Independência._
 
 
 
-### BIBLIOGRAFIA:###
+### BIBLIOGRAFIA: ###
 
 O que é Rest? 
 Disponível em: <https://coodesh.com/blog/dicionario/o-que-e-rest/#:~:text=A%20arquitetura%20Rest%20permite%20a%20
