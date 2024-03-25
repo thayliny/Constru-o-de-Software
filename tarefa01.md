@@ -1,4 +1,4 @@
-#API REST#
+# API REST #
 
 Uma **API** ou Interface de programação de  aplicações nada mais que  um conjunto de funções que são implementadas em um programa de computador que é disponibilizado em outro programa de forma simplificada para que ele possa utilizar. 
 
@@ -7,7 +7,7 @@ Já **Rest** ou Transferência de Estado Representacional é uma  arquitetura, v
 Uma API Rest é uma aplicação leve que gera excelentes resultados em diversas aplicações. Pois sua aplicação permite  a comunicação  segura pela internet de dois sistemas.
 
 
-###As principais características de uma API Rest são :### 
+### As principais características de uma API Rest são :### 
 
 1.Interface Uniforme
 2.Ausência de estado
@@ -19,7 +19,7 @@ _Os benefícios de se usar uma API Rest é a sua Escalabilidade,Flexibilidade e 
 
 
 
-###BIBLIOGRAFIA:###
+### BIBLIOGRAFIA:###
 
 O que é Rest? 
 Disponível em: <https://coodesh.com/blog/dicionario/o-que-e-rest/#:~:text=A%20arquitetura%20Rest%20permite%20a%20
