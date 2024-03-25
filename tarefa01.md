@@ -26,6 +26,8 @@ Disponível em: <https://coodesh.com/blog/dicionario/o-que-e-rest/#:~:text=A%20a
 comunica%C3%A7%C3%A3o%20entre%20aplica%C3%A7%C3%B5es.&text=Quando%20se%20abre%20o%20navegador>.
 Acesso em: 25 mar. 2024.
 ‌
+
+
 DOS, C. conjunto de rotinas e padrões estabelecidos para o desenvolvimento de software e aplicações. 
 Disponível em: <https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es>.
 
