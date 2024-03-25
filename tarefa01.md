@@ -7,7 +7,7 @@ Já **Rest** ou Transferência de Estado Representacional é uma  arquitetura, v
 Uma API Rest é uma aplicação leve que gera excelentes resultados em diversas aplicações. Pois sua aplicação permite  a comunicação  segura pela internet de dois sistemas.
 
 
-### As principais características de uma API Rest são :### 
+### As principais características de uma API Rest são : ### 
 
 1. Interface Uniforme
 2. Ausência de estado
